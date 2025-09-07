@@ -1,0 +1,36 @@
+{
+  "player_esp": {
+    "skeleton": "off",
+    "box": "off",
+    "line": "off",
+    "health": "off",
+    "head_circle": "off",
+    "name": "off",
+    "team_id": "off",
+    "uid": "off",
+    "nation": "off",
+    "distance": "off",
+    "weapon_icon": "off",
+    "weapon_text": "off"
+  },
+  "alert_esp": {
+    "360_alert": "off",
+    "out_of_screen_alert": "off",
+    "grenade_warning": "off"
+  },
+  "world_esp": {
+    "vehicles": "off",
+    "items": "off",
+    "lootbox_items": "off",
+    "dogs": "off"
+  },
+  "crate_esp": {
+    "military_items": "off",
+    "medical_items": "off",
+    "documents": "off",
+    "weapon_crates": "off"
+  },
+  "misc": {
+    "enemy_counter": "off"
+  }
+}
