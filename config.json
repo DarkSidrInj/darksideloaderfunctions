@@ -31,6 +31,6 @@
     "weapon_crates": "off"
   },
   "misc": {
-    "enemy_counter": "off"
+    "enemy_counter": "on"
   }
 }
