@@ -1,36 +1,39 @@
 {
-  "player_esp": {
-    "skeleton": "off",
-    "box": "off",
-    "line": "off",
-    "health": "off",
-    "head_circle": "off",
-    "name": "off",
-    "team_id": "off",
-    "uid": "off",
-    "nation": "off",
-    "distance": "off",
-    "weapon_icon": "off",
-    "weapon_text": "off"
-  },
-  "alert_esp": {
-    "360_alert": "off",
-    "out_of_screen_alert": "off",
-    "grenade_warning": "off"
-  },
-  "world_esp": {
-    "vehicles": "off",
-    "items": "off",
-    "lootbox_items": "off",
-    "dogs": "off"
-  },
-  "crate_esp": {
-    "military_items": "off",
-    "medical_items": "off",
-    "documents": "off",
-    "weapon_crates": "off"
-  },
-  "misc": {
-    "enemy_counter": "on"
+  "features": {
+    "player": {
+      "skeleton": "on",
+      "box": "on",
+      "line": "on",
+      "health": "on",
+      "name": "on",
+      "distance": "on",
+      "weapon_text": "on",
+      "weapon_icon": "on",
+      "nation": "on",
+      "uid": "on",
+      "head": "on",
+      "team_id": "on"
+    },
+    "alerts": {
+      "360_alert": "on",
+      "outside_safe_zone_alert": "on"
+    },
+    "world": {
+      "grenade": "on",
+      "vehicles": "on",
+      "items": "on",
+      "lootbox": "on",
+      "dog": "on"
+    },
+    "crates": {
+      "military_item": "on",
+      "medical": "on",
+      "document": "on",
+      "weapon_crate": "on"
+    },
+    "misc": {
+      "enemy_count": "on",
+      "debug_info": "off"
+    }
   }
 }
